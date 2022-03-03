@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		410DD23F27CF6DCB004CF1BA /* Alarm.wav in Resources */ = {isa = PBXBuildFile; fileRef = 410DD23E27CF6DCB004CF1BA /* Alarm.wav */; };
 		4184C25B27BA2909007DBFE0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4184C25A27BA2909007DBFE0 /* AppDelegate.swift */; };
 		4184C25D27BA2909007DBFE0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4184C25C27BA2909007DBFE0 /* SceneDelegate.swift */; };
 		4184C25F27BA2909007DBFE0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4184C25E27BA2909007DBFE0 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		410DD23E27CF6DCB004CF1BA /* Alarm.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Alarm.wav; sourceTree = "<group>"; };
 		4184C25727BA2909007DBFE0 /* Plank Timer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Plank Timer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4184C25A27BA2909007DBFE0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4184C25C27BA2909007DBFE0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				4184C25E27BA2909007DBFE0 /* ViewController.swift */,
 				4184C26027BA2909007DBFE0 /* Main.storyboard */,
 				4184C26327BA290B007DBFE0 /* Assets.xcassets */,
+				410DD23E27CF6DCB004CF1BA /* Alarm.wav */,
 				4184C26527BA290B007DBFE0 /* LaunchScreen.storyboard */,
 				4184C26827BA290B007DBFE0 /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				410DD23F27CF6DCB004CF1BA /* Alarm.wav in Resources */,
 				4184C26727BA290B007DBFE0 /* LaunchScreen.storyboard in Resources */,
 				4184C26427BA290B007DBFE0 /* Assets.xcassets in Resources */,
 				4184C26227BA2909007DBFE0 /* Main.storyboard in Resources */,
@@ -294,6 +298,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -321,6 +326,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
