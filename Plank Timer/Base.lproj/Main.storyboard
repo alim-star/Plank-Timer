@@ -26,7 +26,7 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Ch4-ly-QKI" userLabel="logo view">
                                         <rect key="frame" x="93.666666666666686" y="0.0" width="227" height="272.66666666666669"/>
                                         <subviews>
-                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Logo" translatesAutoresizingMaskIntoConstraints="NO" id="QLu-AQ-MbM">
+                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Logo Green" translatesAutoresizingMaskIntoConstraints="NO" id="QLu-AQ-MbM">
                                                 <rect key="frame" x="0.0" y="5" width="227" height="262.66666666666669"/>
                                             </imageView>
                                         </subviews>
@@ -174,7 +174,7 @@
     </scenes>
     <resources>
         <image name="Button 2" width="100" height="100"/>
-        <image name="Logo" width="166.66667175292969" height="166.66667175292969"/>
+        <image name="Logo Green" width="166.66667175292969" height="166.66667175292969"/>
         <image name="background" width="1333.3333740234375" height="2000"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
